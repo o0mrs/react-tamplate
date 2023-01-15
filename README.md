@@ -6,7 +6,6 @@ it contains
 - react-router-dom
 - react-toastify
 # Run it with typing react
-# NOTE
 Replace Replace-me with the file path u just downloaded and don't ever delete it
 # macOS
 download the react.command file
@@ -17,5 +16,4 @@ alias react='Replace-me/react.command'
 source ~/.bash_profile
 # Linux 
 same as macOS just replace react.command with react.sh
-\n
 i will try to keep this updated to the latest version
