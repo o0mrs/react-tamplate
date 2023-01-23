@@ -40,6 +40,6 @@ module.exports = {
     styled: true,
       themes: true,
       base: false,
-      darkTheme: "dark",
+      darkTheme: "light",
   },
 }
