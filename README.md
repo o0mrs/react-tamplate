@@ -16,3 +16,4 @@ Replace Replace-me with the file path u just downloaded and don't ever delete it
 # Linux 
 - same as macOS just replace react.command with react.sh
 i will try to keep this updated to the latest version
+# esos
